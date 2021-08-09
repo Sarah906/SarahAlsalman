@@ -4,52 +4,54 @@ Data-oriented - Computer Scientist👩🏼‍💻 based in Riyadh , Saudi Arabia
 
 
 
-## Experience
+## Experience:
+
+
+**Elm Company Riyadh Nov 2019 – Present**
+
+** Organizer of PyData Riyadh Aug 2020 – present **
+**Sudair Pharma Company Riyadh April 2019 – Nov2019**
+
+**Tatweer Building Company Riyadh Jul 2017 - Sep 2017**
+
 
 ## 🏆 Accomplishments
 
 
 ## 👩🏼‍🎓 Education
 
+**Majmaah University Majmaah Jan 2013 – May 2018**
+Bachelor’s Degree in Computer Science.
+
+## Training And Certificates
+- AIArtathon Training Program - Jan 2020 March
+- MGF Future Fit Program – Online Nov 2019
+Professional Development 
+- COMPLETION OF THE AUTHORIZED CISCO TRAINING OCT 2019 
+- GENERAL ASSEMBLY RIYADH NOV 2018 - FEB 2019 - DATA SCIENCE IMMERSIVE 
+In collaboration with MiSK Foundation Academy.
+
+## Projects
+• MVP assessment.
+• Competitor tweets analysis. (python)
+• Market segmentation & penetration analysis.
+• Ariba SLP.
+• Artwork using artificial intelligence GAN models. (Python)
+• Microsoft Malware Prediction (Python).
+• Sarcasm detection (Python).
+• Web Scraping for Indeed.com and Predicting Salaries (Python).
+• Development of a mobile application for managing and positioning 
+campus facilities (IOS)
+
+## HACKATHONS 
+• AIArtathon – Global AI Summit. Jan 2020
+• Datathon | Saudi eGovernment Program with SFDA & Saudi Data 
+Community – November 2019
+• Dawri Thakaa | Saudi Federation for Cyber Security and Programming –
+March 2019
 ## 💬 Languages
 
+- Arabic 
+- English
 
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Sarah906/SarahAlsalman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sarah906/SarahAlsalman/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
