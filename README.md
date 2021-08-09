@@ -50,6 +50,22 @@ campus facilities (IOS)
 Community – November 2019
 - Dawri Thakaa | Saudi Federation for Cyber Security and Programming –
 March 2019
+
+## SKILLS AND ABILITIES
+- Ability to use MS office 
+efficiently. 
+- C++
+- HTML& CSS
+- SQL
+- Swift
+- Python
+- Git & GitHub
+- Scraping
+- Machine Learning
+- Statistics
+- Ability to build a dashboard using Python, Excel, Power Bi, and Tableau.
+
+
 ## 💬 Languages
 
 - Arabic 
