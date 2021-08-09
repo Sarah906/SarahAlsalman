@@ -18,6 +18,8 @@ Data-oriented - Computer Scientist👩🏼‍💻 based in Riyadh , Saudi Arabia
 
 ## 🏆 Accomplishments
 
+-  AIArtathon– 1st Stage Winner
+ - Second Place in the Academic Evaluation for Best Project.
 
 ## 👩🏼‍🎓 Education
 
@@ -25,6 +27,7 @@ Data-oriented - Computer Scientist👩🏼‍💻 based in Riyadh , Saudi Arabia
 Bachelor’s Degree in Computer Science.
 
 ## Training And Certificates
+
 - AIArtathon Training Program - Jan 2020 March
 - MGF Future Fit Program – Online Nov 2019
 Professional Development 
@@ -33,6 +36,7 @@ Professional Development
 In collaboration with MiSK Foundation Academy.
 
 ## Projects
+
 - MVP assessment.
 - Competitor tweets analysis. (python)
 - Market segmentation & penetration analysis.
@@ -45,6 +49,7 @@ In collaboration with MiSK Foundation Academy.
 campus facilities (IOS)
 
 ## HACKATHONS 
+
 - AIArtathon – Global AI Summit. Jan 2020
 - Datathon | Saudi eGovernment Program with SFDA & Saudi Data 
 Community – November 2019
@@ -52,6 +57,7 @@ Community – November 2019
 March 2019
 
 ## SKILLS AND ABILITIES
+
 - Ability to use MS office 
 efficiently. 
 - C++
