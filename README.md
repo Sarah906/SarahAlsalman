@@ -2,6 +2,7 @@
 
 Data-oriented - Computer Scientist👩🏼‍💻 based in Riyadh , Saudi Arabia
 
+Github - Linkedin - Tableau - Twitter
 
 
 ## Experience:
